@@ -7,3 +7,6 @@ A subscription protocol on superfluid that rewards active social token holders. 
 Future iterations will fix current bugs with distributing tokens. It will also integrate uniswap so people can buy the token seemlessly right on our site.
 
 
+Video: https://www.loom.com/share/3c9defc611fa47babe7a2e70f5bb25e5
+
+
